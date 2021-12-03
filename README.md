@@ -1,6 +1,7 @@
 
 # Vibhu Iyer
 ####  Computer Science and Mechanical Engineering Student at [Rutgers University, NB](https://www.rutgers.edu)
+#### [Portfolio](https://thevizwiz.github.io/Portfolio/) - *Under Development*
 
 ## Current Projects
 - **[Edgewalker (working title)](https://github.com/TheVizWiz/Metroidvania-Game)** - A large-scale 2D metroidvania style exploration game, set to release in 2022-23. Alpha testing release expected summer 2021.
@@ -15,7 +16,7 @@
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src = "https://cdn.worldvectorlogo.com/logos/unity-69.svg" width = "48" height = "48" alt = "Unity">
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-  <img src="https://numpy.org/images/logos/numpy.svg" width = 48 height = 48/>
+<!--   <img src="https://numpy.org/images/logos/numpy.svg" width = 48 height = 48/> -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width = 48 height = 48/>
   <img src = "https://pytorch.org/assets/images/pytorch-logo.png" width = 48 height = 48 />
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
