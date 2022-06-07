@@ -5,7 +5,7 @@
 
 ## Current Projects
 - **[Edgewalker (working title)](https://github.com/TheVizWiz/Metroidvania-Game)** - A large-scale 2D metroidvania style exploration game, set to release in 2022-23. Alpha testing release expected summer 2021.
-- **[Triangle Simulator](https://github.com/TheVizWiz/lwjgl-triangles)** - Basic [LWJGL](https://www.lwjgl.org) triangle-flow project meant for learning the basics of OpenGL, OpenCL, and their wrappers in Java. Further projects will build upon the basics of this one.
+- **[ESP32 Drone](https://github.com/TheVizWiz/ESP32-Drone)** - Basic ESP32 / Arduino based Drone, built from scratch. Includes CAD, PCB Design, all software (including PID Systems), and a Drone Flight Analyzer, able to communicate telemetry from the Drone-Controller system to a computer on the same Wifi Network.
 
 ## Coding languages and Technologies
 <p float = "left">
