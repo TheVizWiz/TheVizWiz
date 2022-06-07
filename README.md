@@ -1,10 +1,9 @@
 
 # Vibhu Iyer
 ####  Computer Science and Mechanical Engineering Student at [Rutgers University, NB](https://www.rutgers.edu)
-#### [Portfolio](https://thevizwiz.github.io/Portfolio/) - *Under Development*
 
 ## Current Projects
-- **[Edgewalker (working title)](https://github.com/TheVizWiz/Metroidvania-Game)** - A large-scale 2D metroidvania style exploration game, set to release in 2022-23. Alpha testing release expected summer 2021.
+- **[Edgewalker (working title)](https://github.com/TheVizWiz/Metroidvania-Game)** - A large-scale 2D metroidvania style exploration game, set to release in 2024. Built using Unity Engine, C#, as well as various other technologies (TMPro, OpenCL, etc).
 - **[ESP32 Drone](https://github.com/TheVizWiz/ESP32-Drone)** - Basic ESP32 / Arduino based Drone, built from scratch. Includes CAD, PCB Design, all software (including PID Systems), and a Drone Flight Analyzer, able to communicate telemetry from the Drone-Controller system to a computer on the same Wifi Network.
 
 ## Coding languages and Technologies
