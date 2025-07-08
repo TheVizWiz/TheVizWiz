@@ -1,9 +1,10 @@
 
 # Vibhu Iyer
-####  Computer Science and Mechanical Engineering Student at [Rutgers University, NB](https://www.rutgers.edu)
+
+####  B.S. Computer Science and B.S. Mechanical Engineering Student at [Rutgers University, NB](https://www.rutgers.edu)
 
 ## Current Projects
-- **[Edgewalker (working title)](https://github.com/TheVizWiz/Edgewalker-game)** - A large-scale 2D metroidvania style exploration game, set to release in 2024. Built using Unity Engine, C#, as well as various other technologies (TMPro, OpenCL, etc).
+- **[LedPipelines](https://github.com/TheVizWiz/LedPipelines)** - An embedded library to build custom LED that are complex, reactive, fluid, and scalable. Supports animations, multiple strips, fractional LED lighting, and layering and sequential effects. 
 - **[ESP32 Drone](https://github.com/TheVizWiz/ESP32-Drone)** - Basic ESP32 / Arduino based Drone, built from scratch. Includes CAD, PCB Design, all software (including PID Systems), and a Drone Flight Analyzer, able to communicate telemetry from the Drone-Controller system to a computer on the same Wifi Network. Built on top of my [Drone Flight Analyzer](https://thevizwiz.github.io/Drone-Flight-Analyzer/) system.
 
 ## Coding languages and Technologies
